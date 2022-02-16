@@ -1,4 +1,4 @@
-# Labeled-distribution-learning
+# Label Distribution Learning
 Page: http://palm.seu.edu.cn/xgeng/
 
 Labeled distribution learning is a new machine learning paradigm that transforms multiple labels into a distributed fashion.
