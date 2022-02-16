@@ -6,3 +6,12 @@ However, the official dataset provided lacks the real distribution markers. For 
 
 Link : https://pan.baidu.com/s/154LvVrY1dWBOe2uJePNP6g 
 Password：wlwn 
+
+Details：
+We employ 10 experts to mark each watercolor, and each image is considered a product, with each product including 11 emotions.
+These 10 experts were 5 men and 5 women, evenly distributed in age from 20-60, eliminating a certain social impact.
+For each watercolor, we consider it to be a product for the general public, so we define 11 emotions from the viewpoint of product design, each of which is known to the marker as a priori knowledge.
+10 labeled tables were eventually averaged into one table.
+
+
+We sincerely hope that you appreciate the efforts and work of IDAM Lab in the School of Computer Science and Engineering, Nanjing University of Technology in the acknowledgement section of the paper.
