@@ -32,3 +32,5 @@ https://github.com/wangjing4research/multimodal-label-distribution-learning Mult
 https://github.com/elliotnelson/rbm_wavefunctions Multi-Modal Distributions with Labelled Probabilities.
 
 https://github.com/TingtingSL/NGDNet  Head pose estimation.
+
+https://github.com/zengqunzhao/EfficientFace  Facial expression recognition. 
