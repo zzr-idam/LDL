@@ -34,3 +34,5 @@ https://github.com/elliotnelson/rbm_wavefunctions Multi-Modal Distributions with
 https://github.com/TingtingSL/NGDNet  Head pose estimation.
 
 https://github.com/zengqunzhao/EfficientFace  Facial expression recognition. 
+
+https://github.com/hyperconnect/LADE Long-tailed Visual Recognition.
