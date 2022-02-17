@@ -30,3 +30,5 @@ https://github.com/7color94/movie-rating-distribution-predict Movie Rating Distr
 https://github.com/wangjing4research/multimodal-label-distribution-learning Multi-modal dataset.
 
 https://github.com/elliotnelson/rbm_wavefunctions Multi-Modal Distributions with Labelled Probabilities.
+
+https://github.com/TingtingSL/NGDNet  Head pose estimation.
