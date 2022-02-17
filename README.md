@@ -17,7 +17,7 @@ For each watercolor, we consider it to be a product for the general public, so w
 
 We sincerely hope that you appreciate the efforts and work of IDAM Lab in the School of Computer Science and Engineering, Nanjing University of Science and Technology in the acknowledgement section of the paper.
 
-# Other dataset for Deep LDL
+# Other datasets for Deep LDL
 
 https://github.com/xpwu95/LDL  The ACNE04 dataset can be downloaded from Baidu (pw: fbrm) or Google.
 
