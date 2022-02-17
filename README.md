@@ -15,3 +15,17 @@ For each watercolor, we consider it to be a product for the general public, so w
 
 
 We sincerely hope that you appreciate the efforts and work of IDAM Lab in the School of Computer Science and Engineering, Nanjing University of Science and Technology in the acknowledgement section of the paper.
+
+# Other dataset for Deep LDL
+
+https://github.com/xpwu95/LDL  The ACNE04 dataset can be downloaded from Baidu (pw: fbrm) or Google.
+
+https://github.com/kaidic/LDAM-DRW (NIPS'19)  Currently a number of LDL methods are inspired by it.
+
+https://github.com/gaobb/DLDL-v2  https://github.com/Zzhc3321/LDL Age Estimation Datasets.
+
+https://github.com/7color94/movie-rating-distribution-predict Movie Rating Distribution Predict.
+
+https://github.com/wangjing4research/multimodal-label-distribution-learning Multi-modal dataset.
+
+https://github.com/elliotnelson/rbm_wavefunctions Multi-Modal Distributions with Labelled Probabilities.
