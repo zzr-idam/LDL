@@ -38,3 +38,5 @@ https://github.com/zengqunzhao/EfficientFace  Facial expression recognition.
 https://github.com/hyperconnect/LADE Long-tailed Visual Recognition.
 
 https://github.com/jhjiezhang/long-tail-ldam cifar dataset.
+
+https://github.com/Shaunnamm/Label_Distribution_Learning_Mars_Minerals Data and algorthims for applying Label Distribution Learning to martian mineral unit-cell parameters for the purpose of predicting their chemical compositions.
