@@ -36,3 +36,5 @@ https://github.com/TingtingSL/NGDNet  Head pose estimation.
 https://github.com/zengqunzhao/EfficientFace  Facial expression recognition. 
 
 https://github.com/hyperconnect/LADE Long-tailed Visual Recognition.
+
+https://github.com/jhjiezhang/long-tail-ldam cifar dataset.
