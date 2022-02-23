@@ -17,7 +17,7 @@ For each watercolor, we consider it to be a product for the general public, so w
 
 We sincerely hope that you appreciate the efforts and work of IDAM Lab in the School of Computer Science and Engineering, Nanjing University of Science and Technology in the acknowledgement section of the paper.
 
-# Other datasets for Deep LDL
+## Other datasets for Deep LDL
 
 https://github.com/xpwu95/LDL  The ACNE04 dataset can be downloaded from Baidu (pw: fbrm) or Google.
 
@@ -42,3 +42,7 @@ https://github.com/jhjiezhang/long-tail-ldam cifar dataset.
 https://github.com/Shaunnamm/Label_Distribution_Learning_Mars_Minerals Data and algorthims for applying Label Distribution Learning to martian mineral unit-cell parameters for the purpose of predicting their chemical compositions.
 
 https://github.com/ysriram1/Label-Distribution-Metric-Learning Metric Learning on Distributed Labels.
+
+## Non-Deep datasets
+
+http://ldl.herokuapp.com/download
