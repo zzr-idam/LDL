@@ -8,7 +8,7 @@ However, the official dataset provided lacks the real distribution markers. For 
 # Dataset 
 
 Link：https://pan.baidu.com/s/1qhK9N9PLXKtwKIu2aGJa-g 
-Password：payw 
+
 
 Details：
 We employ 10 experts to mark each watercolor, and each image is considered a product, with each product including 11 emotions.
