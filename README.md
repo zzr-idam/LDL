@@ -5,8 +5,10 @@ Code: https://github.com/NJUST-IDAM
 Labeled distribution learning is a new machine learning paradigm that transforms multiple labels into a distributed fashion.
 However, the official dataset provided lacks the real distribution markers. For this purpose, we provide 600 sets of color images, each corresponding to 11 emotions, which have a distribution value sum of 1.
 
-# Wait
-Dataset 
+# Dataset 
+
+Link：https://pan.baidu.com/s/1qhK9N9PLXKtwKIu2aGJa-g 
+Password：payw 
 
 Details：
 We employ 10 experts to mark each watercolor, and each image is considered a product, with each product including 11 emotions.
