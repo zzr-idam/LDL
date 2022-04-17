@@ -45,6 +45,7 @@ https://github.com/Shaunnamm/Label_Distribution_Learning_Mars_Minerals Data and 
 
 https://github.com/ysriram1/Label-Distribution-Metric-Learning Metric Learning on Distributed Labels.
 
+https://github.com/federicovergallo/Engagement-recognition-using-DAISEE-dataset
 ## Non-Deep datasets
 
 http://ldl.herokuapp.com/download
